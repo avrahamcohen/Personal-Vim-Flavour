@@ -1,0 +1,15 @@
+Hi,
+
+This is my own VI preferences.
+
+Including:
+
+    SuperTab: Word completion on steriods.
+    DelimitMate: Intelligent autocompletion for quotes, parenthesis, brackets etc.
+    Install Pathogen: Vim package manager.
+    NERDTree plugin.
+
+
+Please copy .vimrc into ~/ 
+
+Enjoy :) !
